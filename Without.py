@@ -341,5 +341,4 @@ def action():
     login() 
           
 if __name__ == '__main__':
-    login()
-© 2021 GitHub, Inc.
+    login
